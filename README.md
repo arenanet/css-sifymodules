@@ -36,6 +36,6 @@ b.bundle();
 - `generateScopedName`: (API only) a function to override the default behaviour of creating locally scoped classnames.
 
 
-## Licence
+## License
 
 MIT
