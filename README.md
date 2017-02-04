@@ -1,5 +1,7 @@
 # css-sifymodules
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/arenanet/css-sifymodules.svg)](https://greenkeeper.io/)
+
 A browserify plugin to load [CSS Modules] based on [css-modulesify]. Note: You probably don't want to use this.
 
 ## Why rewrite [css-modulesify]?
