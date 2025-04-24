@@ -1,3 +1,8 @@
+# ⚠️ THIS PACKAGE IS OBSOLETE AND INSECURE ⚠️
+
+Do not use this package. It's obsolete, unmaintained and insecure.  
+This archive is only for learning purposes.
+
 # css-sifymodules
 
 A browserify plugin to load [CSS Modules] based on [css-modulesify]. Note: You probably don't want to use this.
